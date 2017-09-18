@@ -1,0 +1,10 @@
+.kobalt
+.idea/
+kobaltBuild/
+javaBuild/
+build/
+.DS_Store
+out
+*.iml
+classes/
+lib/*.jar
